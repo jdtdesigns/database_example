@@ -1,0 +1,16 @@
+#notes div {
+  background: #333;
+  color: #fff;
+  padding: 15px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+
+form input, form textarea, form button {
+  padding: 7px;
+  font-size: 1.001rem;
+}
